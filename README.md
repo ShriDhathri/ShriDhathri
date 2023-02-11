@@ -4,9 +4,9 @@
 # HELLO, FOLKS ????
 ![](https://komarev.com/ghpvc/?username=shridhathri&color=brightgreen&styl=plastic)
 --------------------------------‐-----------------------------------------------
-- ???? Hi, I’m @vedanthvnayak
-- ???? I’m interested in linux, opensource, python coding,software testing, quantum physics and quantum computing.
-- ???? I’m currently learning BE in computer science 
+- ???? Hi, I’m @ShriDhathri 
+- ???? I’m interested in linux, opensource, python coding,software testing,web designing,quantum physics and quantum computing.
+- ???? I’m currently learning BE in computer science and data science 
 - ????️ I’m looking to collaborate on ....
 - ???? How to reach me dhathridhatu@gmail.com
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
