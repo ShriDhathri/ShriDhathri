@@ -34,3 +34,4 @@
 
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=shridhathri&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+[![An image of @shridhathri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shridhathri)](https://holopin.io/@shridhathri)
