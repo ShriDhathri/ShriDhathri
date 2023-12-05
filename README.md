@@ -1,37 +1,35 @@
----
-##my status
---->
-# HELLO, FOLKS ????
-![](https://komarev.com/ghpvc/?username=shridhathri&color=brightgreen&styl=plastic)
---------------------------------‐-----------------------------------------------
-- ???? Hi, I’m @ShriDhathri 
-- ???? I’m interested in linux, opensource, python coding,software testing,web designing,quantum physics and quantum computing.
-- ???? I’m currently learning BE in computer science and data science 
-- ????️ I’m looking to collaborate on ....
-- ???? How to reach me dhathridhatu@gmail.com
------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Languages and Tools:
+<h1 align="center">Hi 👋, I'm Shri Dhathri</h1>
+<h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
-![visual studio code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=C%2B%2B&logoColor=vscode)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=C)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
-![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shridhathri&label=Profile%20views&color=0e75b6&style=flat" alt="shridhathri" /> </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="http://github-readme-streak-stats.herokuapp.com?user=shridhathri&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=shridhathri&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Github Stats:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shridhathri" alt="shridhathri" /></a> </p>
 
-<img alt="Shridhathri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shridhathri&theme=react-dark&area=true" width="100%">
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🌱 I’m currently learning **Python and JavaScript**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhathri&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
+- 🤝 I’m looking for help with **Python**
 
+- 📫 How to reach me **dhathridhatu@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dhathri dhathri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhathri dhathri" height="30" width="40" /></a>
+<a href="https://kaggle.com/shri dhathri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shri dhathri" height="30" width="40" /></a>
+<a href="https://instagram.com/dhathri_dhatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhathri_dhatu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dhathridhatu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhathridhatu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shri_dhathri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shri_dhathri" height="30" width="40" /></a>
+<a href="https://discord.gg/dhathri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhathri" height="30" width="40" /></a>
+</p>
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=shridhathri&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shridhathri&show_icons=true&locale=en&layout=compact" alt="shridhathri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shridhathri&show_icons=true&locale=en" alt="shridhathri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shridhathri&" alt="shridhathri" /></p>
+
 [![An image of @shridhathri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shridhathri)](https://holopin.io/@shridhathri)
