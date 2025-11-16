@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shri Dhathri</h1>
-<h3 align="center">A Data Analyst and a passionate frontend developer  from India</h3>
+<h3 align="center">A Data Science enthusiast from India. Open to work and colab with projects releated to Data science and Data Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridhathri&label=Profile%20views&color=0e75b6&style=flat" alt="shridhathri" /> </p>
 
