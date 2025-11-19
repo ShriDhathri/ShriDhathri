@@ -37,3 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShriDhathri&" alt="ShriDhathri" /></p>
 
+[![An image of @shridhathri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shridhathri)](https://holopin.io/@shridhathri)
