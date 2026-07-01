@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on I am currently working on projects related to snowflake and AWS<br><br>🌱 I'm currently learning AWS, Snowflake, Databricks<br><br>👯 I'm looking to collaborate on Open source projects and freelancing projects<br><br>💬 Ask me about Data Science and analysis, Machine learning.<br><br>📫 How to reach me dhathridhatu@gmail.com<br><br>👨‍💻 All of my projects are available at https://shri-dhathri.vercel.app/<br><br>📄 Know about my experiences https://drive.google.com/file/d/1-qArqIVeRrftYSi70b0fD1BH3ozXeX7Z/view?usp=drivesdk
+🔭 A Data Engineer who enjoys designing efficient data pipelines and complex transforming data into valuable insights<br><br>🌱 I'm currently learning AWS, Docker and many more tool<br><br>👯 I'm looking to collaborate on Open source projects and freelancing projects<br><br>📫 How to reach me dhathridhatu@gmail.com<br><br>👨‍💻 All of my projects are available at https://shri-dhathri.vercel.app/<br>
 
 
 ## 🌐 Socials:
